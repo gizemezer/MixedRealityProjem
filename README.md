@@ -1,0 +1,1 @@
+Burada MixedRealityProjem/Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection yolunu izleyerek buradaki hand landmark detection sahnesini  açıp çalıştırarak başarılı bir şekilde projeme ulaşmış olursunuz.
